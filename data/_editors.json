@@ -6,18 +6,18 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "SME",
+        "link": "https://www.youtube.com/@Spacemarioedition"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "SME",
+        "link": "https://www.youtube.com/@Spacemarioedition"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "",
+        "link": ""
     },
     {
         "role": "dev",
