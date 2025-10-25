@@ -1,30 +1,31 @@
 {
     "id": "101",
     "name": "Feel Good",
-    "author": "SME",
-    "creators": ["SME"],
-    "verifier": "SME",
+    "author": "🇺🇸 SME",
+    "creators": ["🇺🇸 SME"],
+    "verifier": "🇺🇸 SME",
     "verification": "https://youtu.be/LvH8oIUJc-k",
     "percentToQualify": "52",
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Moody761",
+            "user": "🇪🇬 Moody761",
             "link": "https://youtu.be/hOtpJiV0j6c",
             "percent": "100",
             "hz": "75"
         },
         {
-            "user": "lavv",
+            "user": "🇮🇱 lavv",
             "link": "https://youtu.be/Af7LNFcOk5o",
             "percent": "100",
-            "hz": "(Mobile) 60"
+            "hz": "(M)60"
         },
         {
-            "user": "sodapop",
+            "user": "🇺🇸 sodapop",
             "link": "https://youtu.be/Nw_dOhK1cr4",
             "percent": "100",
-            "hz": "(Mobile) 120"
+            "hz": "(M)120"
+
         }
     ]
 }
