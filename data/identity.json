@@ -1,0 +1,18 @@
+{
+    "id": "104",
+    "name": "Feel Good",
+    "author": "yizinggg",
+    "creators": ["yizinggg"],
+    "verifier": "yizinggg",
+    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "percentToQualify": "59",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "🇺🇸 SME",
+            "link": "https://youtu.be/KuGB2d0BVDs",
+            "percent": "100",
+            "hz": "170"
+        },
+    ]
+}
