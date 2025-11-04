@@ -1,0 +1,18 @@
+{
+    "id": "121",
+    "name": "i tried this child",
+    "author": "🇸🇬 yizinggg",
+    "creators": ["🇸🇬 yizinggg"],
+    "verifier": "🇸🇬 yizinggg",
+    "verification": "https://streamable.com/7tbrj1",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "🇺🇸 SME",
+            "link": "https://youtu.be/nBqI8LcpGyQ",
+            "percent": "100",
+            "hz": "170"
+        }
+    ]
+}

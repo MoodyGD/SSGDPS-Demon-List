@@ -1,0 +1,18 @@
+{
+    "id": "122",
+    "name": "Techno Track",
+    "author": "🇺🇸 notcoolboy1",
+    "creators": ["🇺🇸 notcoolboy1"],
+    "verifier": "🇺🇸 notcoolboy1",
+    "verification": "https://youtu.be/N6-Qjt6xNLY",
+    "percentToQualify": "58",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "🇺🇸 SME",
+            "link": "https://youtu.be/nBqI8LcpGyQ",
+            "percent": "100",
+            "hz": "170"
+        }
+    ]
+}
