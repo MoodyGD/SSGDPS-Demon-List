@@ -12,13 +12,19 @@
             "user": "🇺🇸 SME",
             "link": "https://youtu.be/nBqI8LcpGyQ",
             "percent": "100",
-            "hz": "170"
+            "date": "170"
         },
         {
             "user": "🇮🇹 Scatter",
             "link": "https://youtu.be/fvOrNJL_yBg",
             "percent": "100",
-            "hz": "240"
+            "date": "240"
+        },
+        {
+            "user": "🇮🇹 Ali",
+            "link": "https://youtu.be/xdduYzJSsvw",
+            "percent": "100",
+            "date": "60"
         }
     ]
 }
