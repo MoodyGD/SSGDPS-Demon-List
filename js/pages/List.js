@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="date">
-                                <p>{{ record.date }}Date</p>
+                                <p>{{ record.date }}</p>
                             </td>
                         </tr>
                     </table>
