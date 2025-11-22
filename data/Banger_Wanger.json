@@ -5,8 +5,14 @@
     "creators": ["🇮🇹 Scatter"],
     "verifier": "🇮🇹 Scatter",
     "verification": "https://youtu.be/ROYh6J5ZJS4",
-    "percentToQualify": "52",
+    "percentToQualify": "59",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "SME",
+            "link": "https://youtu.be/F3R5co1Ceio",
+            "percent": "100",
+            "date": "11/21/2025"
+        }
     ]
 }
