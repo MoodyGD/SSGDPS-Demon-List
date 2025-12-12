@@ -6,7 +6,7 @@
     "verifier": "🇺🇸 notcoolboy1",
     "verification": "https://youtu.be/N6-Qjt6xNLY",
     "percentToQualify": "58",
-    "password": "Free to Copy",
+    "OriginalPlacement": "Free to Copy",
     "records": [
         {
             "user": "🇺🇸 SME",
@@ -25,6 +25,12 @@
             "link": "https://youtu.be/xdduYzJSsvw",
             "percent": "100",
             "date": "11/6/2025"
+        },
+        {
+            "user": "🇺🇸 14xpm14",
+            "link": "",
+            "percent": "60",
+            "date": "12/12/2025"
         }
     ]
 }
