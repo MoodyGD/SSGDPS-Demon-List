@@ -51,8 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">placed_on</div>
-                            <p>{{ level.placed On || '0/0/0' }}</p>
+                            <div class="type-title-sm">placement</div>
+                            <p>{{ level.placement || '0/0/0' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
