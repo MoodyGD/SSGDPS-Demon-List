@@ -8,5 +8,11 @@
     "percentToQualify": "63",
     "enjoyment": "80",
     "records": [
+        {
+            "user": "🇮🇹 Ali",
+            "link": "https://youtu.be/hmfGcbFkzFc",
+            "percent": "100",
+            "date": "11/21/2025"
+        }
     ]
 }
