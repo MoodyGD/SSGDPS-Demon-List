@@ -181,7 +181,7 @@ export default {
 
             const fullListMapped = fullList.map(([lvl, _], i) => ({
                 rank: i + 1,
-                id: lvl.id,
+                difficulty: lvl.difficulty,
                 name: lvl.name,
                 video: lvl.verification,
             }));
