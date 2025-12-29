@@ -48,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <p>{{ level.difficulty }}</p>
+                            <p>{{ level.id }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">enjoyment</div>
