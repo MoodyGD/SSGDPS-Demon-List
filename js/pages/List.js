@@ -106,10 +106,10 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        If the level is rated hard demon or above, have either audio or clicks/taps in the video. Edited clicks are not allowed. If, for example, you don't have a mic and so can't record clicks/taps, you may record the audio separately from the footage.
+                        For levels 9 star and under, you must give a picture of the end screen of the level for your record to be added. For easy/medium demons, footage is needed. For hard demons and above, footage with clicks is needed.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
