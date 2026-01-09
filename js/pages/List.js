@@ -106,7 +106,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        For levels 9 star and under, you must give a picture of the end screen of the level for your record to be added. For easy/medium demons, footage is needed. For hard demons and above, footage with clicks is needed. Edited clicks are not allowed.
+                        For levels 9 star and under, you must give a picture of the end screen of the level for your record to be added. For easy/medium demons, footage is needed. For hard demons and above, footage with clicks and a cheat indicator is needed. Edited clicks are not allowed.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
