@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Submission Requirements (IMPORTANT! READ!)</h3>
                     <p>
                         Achieved the record without using hacks. However, FPS Bypass is allowed, and so is Click Between Frames.
                     </p>
