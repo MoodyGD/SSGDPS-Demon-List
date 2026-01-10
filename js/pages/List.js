@@ -115,7 +115,7 @@ export default {
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret ways that skip most of the level. Contact the creator and ask them to fix it instead of using it to your advantage.
                     </p>
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
