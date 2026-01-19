@@ -1,15 +1,15 @@
 {
     "id": "163",
     "name": "Lune",
-    "author": "🇺🇸 SME",
-    "creators": ["🇺🇸 SME"],
-    "verifier": "🇺🇸 SME",
+    "author": "🇺🇸 [SCC] SME",
+    "creators": ["🇺🇸 [SCC] SME"],
+    "verifier": "🇺🇸 [SCC] SME",
     "verification": "https://youtu.be/eX_m3Ya6o_Y",
     "percentToQualify": "62",
     "enjoyment": "55",
     "records": [
         {
-            "user": "🇺🇸 notcoolboy1",
+            "user": "🇺🇸 [SCC] notcoolboy1",
             "link": "https://youtu.be/a-8uywEAtok",
             "percent": "100",
             "date": "1/2/2025"
@@ -19,6 +19,12 @@
             "link": "",
             "percent": "100",
             "date": "1/6/2026"
+        },        
+        {
+            "user": "🇺🇸 [SCC] 14xpm14",
+            "link": "",
+            "percent": "78",
+            "date": "1/16/2026"
         }
     ]
 }
