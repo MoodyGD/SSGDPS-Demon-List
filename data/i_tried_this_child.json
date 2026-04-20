@@ -33,22 +33,22 @@
             "date": "1/2/2026"
         },
         {
-            "user": "🇺🇸 [SCC] notcoolboy1",
-            "link": "https://youtu.be/JCtMJArSam4",
-            "percent": "67",
-            "date": "11/5/2025"
-        },
-        {
-            "user": "🇺🇸 [SCC] 14xpm14",
-            "link": "",
-            "percent": "58",
-            "date": "1/19/2026"
-        },
-        {
             "user": "🇵🇱 NikoFromOneshot",
             "link": "https://youtu.be/HoTnhaXWqFM",
             "percent": "100",
             "date": "3/14/2026"
+        },
+        {
+            "user": "🇺🇸 [SCC] 14xpm14",
+            "link": "",
+            "percent": "100",
+            "date": "4/20/2026"
+        },
+        {
+            "user": "🇺🇸 [SCC] notcoolboy1",
+            "link": "https://youtu.be/JCtMJArSam4",
+            "percent": "67",
+            "date": "11/5/2025"
         }
     ]
 }
