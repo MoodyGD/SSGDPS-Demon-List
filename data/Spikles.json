@@ -21,6 +21,12 @@
             "date": "12/13/2025"
         },
         {
+            "user": "🇰🇵 complitated",
+            "link": "google.com",
+            "percent": "100",
+            "date": "12/20/2025"
+        },
+        {
             "user": "🇮🇹 Ali",
             "link": "https://youtu.be/hmfGcbFkzFc",
             "percent": "100",
@@ -31,6 +37,12 @@
             "link": "",
             "percent": "100",
             "date": "1/2/2026"
+        },
+        {
+            "user": "🇵🇱 NikoFromOneshot",
+            "link": "https://youtu.be/clKq0_6cGr8",
+            "percent": "100",
+            "date": "3/14/2026"
         }
     ]
 }
