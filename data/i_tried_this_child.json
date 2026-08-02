@@ -45,16 +45,22 @@
             "date": "4/20/2026"
         },
         {
-            "user": "🇺🇸 [SCC] notcoolboy1",
-            "link": "https://youtu.be/JCtMJArSam4",
-            "percent": "67",
-            "date": "11/5/2025"
-        },
-        {
             "user": "🇪🇬 Moody761",
             "link": "https://youtu.be/uZQSFAa_kCc",
             "percent": "100",
             "date": "6/7/2026"
+        },
+        {
+            "user": "🇮🇹 Boingledoop",
+            "link": "https://youtu.be/tCgABCIxRHc",
+            "percent": "100",
+            "date": "8/1/2026"
+        },
+        {
+            "user": "🇺🇸 [SCC] notcoolboy1",
+            "link": "https://youtu.be/JCtMJArSam4",
+            "percent": "67",
+            "date": "11/5/2025"
         }
     ]
 }
